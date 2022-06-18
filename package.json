@@ -1,0 +1,24 @@
+{
+  "name": "sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CannibalClarence/SQL-Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CannibalClarence/SQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/CannibalClarence/SQL-Employee-Tracker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jest": "^28.1.1"
+  }
+}
