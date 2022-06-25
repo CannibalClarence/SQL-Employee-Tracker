@@ -1,6 +1,6 @@
-const inquirer = import('inquirer');
-const cTable = import('console.table');
-const db = import('./db/connection');
+const inquirer = require('inquirer');
+const cTable = require('console.table');
+const db = require('./db/connection');
 
 
 // All Question Arrays
