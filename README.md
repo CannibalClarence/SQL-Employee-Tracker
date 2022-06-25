@@ -39,3 +39,17 @@ inquirer
 <li>  
 console.table
 </li>  
+
+## Screen Shot
+![image](https://user-images.githubusercontent.com/100390351/175792206-d825f1a6-6339-49b8-8b47-65cdda7c5d81.png)
+
+## ScreenCastify Walkthrough
+https://drive.google.com/file/d/1Hybj9xDVv4KM-668nDqZYLNqrgqfZmAv/view
+
+secondary link to finish video i do not have screencastify premium so i only have 5 minutes
+
+https://drive.google.com/file/d/14qBck2lT618fZSq6XMsOFdwQye_FUVrZ/view
+
+
+## Contricution
+made with love by Theo Phillips. GitHub: https://github.com/CannibalClarence
